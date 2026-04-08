@@ -2,29 +2,29 @@
 @import "tailwindcss";
 
 :root {
-  --bg-parchment: #F5F4ED;
-  --bg-ivory: #FDFCF8;
-  --text-primary: #141413;
-  --text-secondary: #4D4C48;
-  --text-tertiary: #5E5D59;
-  --text-muted: #87867F;
-  --accent-terra: #C96442;
-  --accent-coral: #D97757;
-  --border-sand: #E8E6DC;
-  --border-cream: #F0EEE6;
+  --bg-parchment: #08090a;
+  --bg-ivory: #0f1011;
+  --text-primary: #f7f8f8;
+  --text-secondary: #d0d6e0;
+  --text-tertiary: #8a8f98;
+  --text-muted: #62666d;
+  --accent-terra: #5e6ad2;
+  --accent-coral: #7170ff;
+  --border-sand: #23252a;
+  --border-cream: #1a1b1f;
 }
 
 @theme inline {
-  --color-parchment: #F5F4ED;
-  --color-ivory: #FDFCF8;
-  --color-terra: #C96442;
-  --color-coral: #D97757;
-  --color-sand: #E8E6DC;
-  --color-cream: #F0EEE6;
-  --color-charcoal: #4D4C48;
-  --color-olive: #5E5D59;
-  --color-stone: #87867F;
-  --color-near_black: #141413;
+  --color-parchment: #08090a;
+  --color-ivory: #0f1011;
+  --color-terra: #5e6ad2;
+  --color-coral: #7170ff;
+  --color-sand: #23252a;
+  --color-cream: #1a1b1f;
+  --color-charcoal: #d0d6e0;
+  --color-olive: #8a8f98;
+  --color-stone: #62666d;
+  --color-near_black: #f7f8f8;
 
   --font-sans: 'Pretendard Variable', 'Inter', -apple-system, system-ui, sans-serif;
 

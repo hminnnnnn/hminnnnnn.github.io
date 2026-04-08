@@ -21,7 +21,7 @@ export default function Projects() {
             <ScrollReveal key={i} delay={i * 0.1}>
               <button
                 onClick={() => setExpanded(expanded === i ? null : i)}
-                className="w-full text-left bg-parchment border border-sand rounded-card p-6 hover:border-terra/30 transition-colors"
+                className="w-full text-left bg-[rgba(255,255,255,0.03)] border border-[rgba(255,255,255,0.08)] rounded-card p-6 hover:border-[#5e6ad2]/30 transition-colors"
               >
                 <div className="flex justify-between items-start">
                   <div className="flex-1">

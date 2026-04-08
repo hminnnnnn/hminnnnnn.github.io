@@ -34,7 +34,7 @@ export default function Hero() {
             </button>
             <button
               onClick={() => scrollTo("contact")}
-              className="bg-sand text-charcoal px-6 py-3 rounded-[10px] text-[15px] font-medium hover:bg-cream transition-colors"
+              className="bg-[rgba(255,255,255,0.05)] border border-[rgba(255,255,255,0.08)] text-charcoal px-6 py-3 rounded-[10px] text-[15px] font-medium hover:bg-[rgba(255,255,255,0.08)] transition-colors"
             >
               연락하기
             </button>

@@ -8,16 +8,16 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        parchment: "#F5F4ED",
-        ivory: "#FDFCF8",
-        terra: "#C96442",
-        coral: "#D97757",
-        sand: "#E8E6DC",
-        cream: "#F0EEE6",
-        charcoal: "#4D4C48",
-        olive: "#5E5D59",
-        stone: "#87867F",
-        near_black: "#141413",
+        parchment: "#08090a",
+        ivory: "#0f1011",
+        terra: "#5e6ad2",
+        coral: "#7170ff",
+        sand: "#23252a",
+        cream: "#1a1b1f",
+        charcoal: "#d0d6e0",
+        olive: "#8a8f98",
+        stone: "#62666d",
+        near_black: "#f7f8f8",
       },
       fontFamily: {
         sans: ["'Pretendard Variable'", "Inter", "-apple-system", "system-ui", "sans-serif"],

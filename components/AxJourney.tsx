@@ -22,7 +22,7 @@ export default function AxJourney() {
                 <p className="text-olive text-[13px] leading-relaxed mb-4">{item.description}</p>
                 <div className="flex flex-wrap gap-2">
                   {item.tags.map((tag, j) => (
-                    <span key={j} className="bg-sand text-charcoal px-3 py-1 rounded-md text-[11px] font-medium">
+                    <span key={j} className="bg-[rgba(94,106,210,0.15)] text-[#828fff] px-3 py-1 rounded-md text-[11px] font-medium">
                       {tag}
                     </span>
                   ))}
